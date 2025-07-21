@@ -79874,7 +79874,7 @@ return A.V(A.axm(f),$async$tv)
 case 7:n=c
 if(n.b===200){j=n
 m=B.bu.wU(0,A.axg(A.awq(j.e).c.a.h(0,"charset")).eN(0,j.w),null)
-i=A.F0(J.aG(J.aG(m,"metric"),"peNormalizedAnnual"))
+i=A.F0(J.aG(J.aG(m,"metric"),"peTTM"))
 l=i==null?null:i
 h=A.F0(J.aG(J.aG(m,"metric"),"epsNormalizedAnnual"))
 k=h==null?null:h
