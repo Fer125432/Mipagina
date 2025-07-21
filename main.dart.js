@@ -79878,6 +79878,7 @@ i=A.F0(J.aG(J.aG(m,"metric"),"peNormalizedAnnual"))
 l=i==null?null:i
 h=A.F0(J.aG(J.aG(m,"metric"),"epsNormalizedAnnual"))
 k=h==null?null:h
+if(a==="TSM"&&k!=null)k/=6.5
 if(l!=null&&k!=null){j=A.aq(["per",l,"eps",k],t.N,t.i)
 q=j
 s=1
