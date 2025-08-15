@@ -83464,7 +83464,7 @@ a9O(a,b,c,d){var s=0,r=A.O(t.H),q,p,o,n,m,l,k,j,i,h,g
 var $async$wJ=A.P(function(e,f){if(e===1)return A.L(f,r)
 while(true)switch(s){case 0:i=t.N
 h=t.i
-g=A.ar(["Fase alcista",A.ar(["mediaReval10a",24.5,"mediaDias10a",169.5,"mediaReval25a",34.68,"mediaDias25a",353.33],i,h),"Fase consolidacion",A.ar(["mediaDias10a",402.5,"mediaDias25a",976.5],i,h),"Fase bajista",A.ar(["mediaReval10a",24.5,"mediaDias10a",169.5,"consolDias10a",402.5,"mediaReval25a",34.68,"mediaDias25a",353.33,"consolDias25a",976.5],i,h)],i,t.V0)
+g=A.ar(["Fase alcista",A.ar(["mediaReval10a",75.42,"mediaDias10a",725,"mediaReval25a",109.198,"mediaDias25a",1235],i,h),"Fase consolidacion",A.ar(["mediaDias10a",402.5,"mediaDias25a",976.5],i,h),"Fase bajista",A.ar(["mediaReval10a",24.5,"mediaDias10a",169.5,"consolDias10a",402.5,"mediaReval25a",34.68,"mediaDias25a",353.33,"consolDias25a",976.5],i,h)],i,t.V0)
 if(b==="Por encima")q=c>=0?"Fase alcista":"Fase consolidacion"
 else q="Fase bajista"
 p=g.h(0,q)
